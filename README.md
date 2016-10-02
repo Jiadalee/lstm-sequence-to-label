@@ -1,6 +1,3 @@
-Timeseries sequence to label predictions with an LSTM neural network
---
-
 <p align="center" >
   <img src="https://raw.github.com/samuelleach/lstm-sequence-to-label/master/figures/timeseries.png" alt="Timeseries" title="Timeseries">
 </p>
